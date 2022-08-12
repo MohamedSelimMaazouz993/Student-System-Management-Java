@@ -1,5 +1,5 @@
 # examen-java
-projet examen : 
+Projet Examen : 
 1) Inscription 
 2) Connection SQL
 3) Ajouter étudiant
