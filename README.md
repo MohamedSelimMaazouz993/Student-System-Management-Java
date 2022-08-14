@@ -1,6 +1,5 @@
-# examen-java
-Projet Examen : 
-1) Inscription 
+# Student System Management java
+ 1) Inscription 
 2) Connection SQL
 3) Ajouter étudiant
 4) Rechercher étudiant
